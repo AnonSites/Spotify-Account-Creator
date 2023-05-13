@@ -4,7 +4,7 @@
         "Create_Username": "y",
 	"Create_Avatar": "y",
         "Change_Avatar": "y",
-        "Use_Proxy": "y",
+        "Use_Proxy": "n",
 	"Remove_Bad_Proxies": "y",
         "Debug_Mode": "if you are not a developer, do not touch this value!! (if you're going to change you can just do 'y')"
     },
