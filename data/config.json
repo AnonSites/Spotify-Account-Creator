@@ -1,24 +1,24 @@
 {
     "settings": {
         "Threads": 3,
-        "Create_Username": "y or n",
-	"Create_Avatar": "y or n",
-        "Change_Avatar": "y or n",
-        "Use_Proxy": "y or n",
-	"Remove_Bad_Proxies": "y or n",
+        "Create_Username": "y",
+	"Create_Avatar": "y",
+        "Change_Avatar": "y",
+        "Use_Proxy": "y",
+	"Remove_Bad_Proxies": "y",
         "Debug_Mode": "if you are not a developer, do not touch this value!! (if you're going to change you can just do 'y')"
     },
     
     "verification_settings": {
-        "Verify_Mail": "y or n",
+        "Verify_Mail": "n",
         "Services": {
-            "Use_MailTM": "y or n",
-            "Use_Emailnator": "y or n"
+            "Use_MailTM": "n",
+            "Use_Emailnator": "n"
         }
     },
 	
     "target_settings": {
-        "Use_Target": "y or n",
+        "Use_Target": "n",
         "Target_To": 10
     },
 
@@ -29,13 +29,13 @@
     },
 
     "follow_types": {
-        "Profile": "y or n",
-        "Playlist": "y or n",
-        "Artist": "y or n"
+        "Profile": "n",
+        "Playlist": "n",
+        "Artist": "n"
     },
 
     "save_methods": {
-        "SQLite": "y or n",
-        "Text_File": "y or n"
+        "SQLite": "n",
+        "Text_File": "y"
     }
 }
